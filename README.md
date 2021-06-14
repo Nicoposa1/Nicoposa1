@@ -42,25 +42,27 @@
 </div>
 
 <div align="center" >
+  
   <a href="https://profile-counter.glitch.me/Nicoposa1/count.svg">
     <p align="center">👀 Visitor Count </p>
     <img align="center" src="https://profile-counter.glitch.me/Nicoposa1/count.svg" />
-  </a>
-  
+  </a
+    
+ <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-  
-  </div>
+<br>   
   
 <a href="https://github.com/Nicoposa1/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nicoposa1&show_icons=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicoposa1&show_icons=true" alt="My github stats" />
 </a>  
 <a href="https://github.com/Nicoposa1/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact" alt="My github stats" />
 </a>  
+</div>
+</div>
 
 <br>
 <br>
