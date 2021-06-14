@@ -25,7 +25,7 @@
 ![Python](https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true)
 ![TypeScript](https://github.com/hussainweb/hussainweb/blob/main/icons/typescript.png?raw=true)
 
-### look at my approved courses
+### Look at my approved courses
 <a href="https://platzi.com/p/Nicoposa1/" target="_blank"><img alt="Platzi" src="https://avatars.githubusercontent.com/u/2975064?s=200&v=4"></a>
 
 
@@ -55,10 +55,10 @@
   
   </div>
   
-  ![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=Nicoposa1&show_icons=true)
-  <a href="https://github.com/Nicoposa1/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact" alt="My github stats" />
-  </a>  
+![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=Nicoposa1&show_icons=true)
+<a href="https://github.com/Nicoposa1/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact" alt="My github stats" />
+</a>  
 
 <br>
 <br>
