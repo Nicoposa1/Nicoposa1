@@ -1,6 +1,10 @@
-### Hi there 👋
+![me](https://media-exp3.licdn.com/dms/image/C4E16AQFQ2QUL2EznGg/profile-displaybackgroundimage-shrink_200_800/0/1608141044165?e=1629331200&v=beta&t=fi-tAPe_cLgqBp0t_F-MeMSTlXGBJcgBl5U1HO8YvDQ)
 
-I'm Nicolás Posa, a Frontend developer especialist in React
+### Hi, I´m Nicolas Posa
+
+- ⚡ I am currently working at [CoderHouse](https://www.coderhouse.com/online/desarrollo-aplicaciones) as a tutor in the application development course
+- 🔭 I am looking for a full-time job as a Frontend developer
+- 🌐 Visit my [portfolio](https://nicoposa1.github.io/portfolio/) website for complete background and contact.
 
 ### Languages and Tools 🛠 
 
@@ -16,9 +20,13 @@ I'm Nicolás Posa, a Frontend developer especialist in React
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
-### Learning
+### What I'm currently learning 📚
 
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+![Python](https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true)
+![TypeScript](https://github.com/hussainweb/hussainweb/blob/main/icons/typescript.png?raw=true)
+
+### look at my approved courses
+<a href="https://platzi.com/p/Nicoposa1/" target="_blank"><img alt="Platzi" src="https://avatars.githubusercontent.com/u/2975064?s=200&v=4"></a>
 
 
 <div align="center">
@@ -33,14 +41,24 @@ I'm Nicolás Posa, a Frontend developer especialist in React
 
 </div>
 
-<div align="center" >
-
-### 👀 visitor count
-![Visitor Count](https://profile-counter.glitch.me/Nicoposa1/count.svg)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact)
- 
+<div align="" >
+  <a href="https://profile-counter.glitch.me/Nicoposa1/count.svg">
+    <p align="left">👀 Visitor Count </p>
+    <img align="left" src="https://profile-counter.glitch.me/Nicoposa1/count.svg" />
+  </a>
+  <a href="https://github.com/Nicoposa1/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact" alt="My github stats" />
+  </a>  
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ---
 ⭐️ From [Nicoposa1](https://github.com/Nicoposa1)
