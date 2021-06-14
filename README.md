@@ -55,7 +55,9 @@
   
   </div>
   
-![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=Nicoposa1&show_icons=true)
+<a href="https://github.com/Nicoposa1/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nicoposa1&show_icons=true" alt="My github stats" />
+</a>  
 <a href="https://github.com/Nicoposa1/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoposa1&layout=compact" alt="My github stats" />
 </a>  
