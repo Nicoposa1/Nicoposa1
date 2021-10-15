@@ -1,4 +1,4 @@
-![me](https://media-exp3.licdn.com/dms/image/C4E16AQFQ2QUL2EznGg/profile-displaybackgroundimage-shrink_200_800/0/1608141044165?e=1629331200&v=beta&t=fi-tAPe_cLgqBp0t_F-MeMSTlXGBJcgBl5U1HO8YvDQ)
+![me](https://media-exp1.licdn.com/dms/image/C4E16AQFQ2QUL2EznGg/profile-displaybackgroundimage-shrink_200_800/0/1608141044165?e=1639612800&v=beta&t=viEI1kLWHcvwvaRygh2P19AwFMQCqjWcrcIlC3R8mnU)
 
 ### Hi, I´m Nicolas Posa
 
