@@ -1,8 +1,7 @@
 ### Hi, I´m Nicolas Posa
 
-- ⚡ I am currently working at [Vippinn](http:/https://www.vippinn.com// "Vippinn") as a Mobile Developer and [CoderHouse](https://www.coderhouse.com/online/desarrollo-aplicaciones) as a tutor in the application development course 
-- 🔭 I am looking for a full-time job as a Frontend developer
-- 🌐 Visit my [portfolio](https://nicoposa1.github.io/portfolio/) website for complete background and contact.
+- ⚡ I am currently working at [Innovasoft](https://class.innovasof.com/class-limitless/) as a Mobile Developer and [CoderHouse](https://www.coderhouse.com/online/desarrollo-aplicaciones) as a tutor in the application development course 
+- 🌐 Visit my [portfolio](https://nicoposa.com/) website for complete background and contact.
 - 🌱 I’m currently learning swift 
 
 ### Languages and Tools 🛠 
