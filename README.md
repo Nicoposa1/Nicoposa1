@@ -28,7 +28,6 @@
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/nicolasposa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/nicoposa1" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnicoposa1" alt="Twitter"></a>
 <a href="https://dev.to/nicoposa1" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://stackoverflow.com/users/12422314/nicoposa1" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 
@@ -61,8 +60,6 @@
 <br>
 <br>
 
----
-⭐️ From [Nicoposa1](https://github.com/Nicoposa1)
 
 <!--
 **Nicoposa1/Nicoposa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
